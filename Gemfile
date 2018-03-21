@@ -37,6 +37,10 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+#gem 'bootstrap-sprockets'
+gem 'bootstrap'
+
+
 # Add passenger
 gem "passenger", ">= 5.0.25", require: "phusion_passenger/rack_handler"
 
